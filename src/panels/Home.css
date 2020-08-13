@@ -1,0 +1,6 @@
+.caption{
+  text-align: center;
+  font-size: 14px;
+  color: var(--text_subhead);
+  margin-bottom: 20px;
+}
